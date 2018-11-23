@@ -1,0 +1,54 @@
+<div id="gameroom">
+  <div id="playersList">
+    <div class="player">
+        <div class="player-status me"></div>
+        <span>{{client.myNickname}}</span>
+    </div>
+
+    <div *ngFor="let player of players" (click)="toggleChallengeStatusAgainstPlayer(player.connectionId, player.isChallengedByMe)" class="player">
+      <div class="player-status" [ngClass]="{'in-game' : player.isInGame, 'challenging-me' : player.isChallengingMe, 'challenged-by-me' : player.isChallengedByMe}"></div>
+      <span>{{player.nickname}}</span>
+    </div>
+  </div>
+
+  <div id="rightPanel">
+    <h1>Kliknij na gracza aby rzucić lub zaakceptować wyzwanie</h1>
+
+    <div id="legend">
+      <div class="status-description">
+        <div class="player-status me"></div>
+        <p>Ty</p>
+      </div>
+
+      <div class="status-description">
+        <div class="player-status free"></div>
+        <p>Wolny gracz</p>
+      </div>
+
+      <div class="status-description">
+        <div class="player-status free challenged-by-me"></div>
+        <p>Wolny gracz, wyzwany przez Ciebie</p>
+      </div>
+
+      <div class="status-description">
+        <div class="player-status free challenging-me"></div>
+        <p>Wolny gracz, który rzuca Ci wyzwanie</p>
+
+      </div>
+
+      <div class="status-description">
+        <div class="player-status in-game"></div>
+        <p>Gracz, który już gra</p>
+      </div>
+
+      <div class="status-description">
+        <div class="player-status in-game challenged-by-me"></div>
+        <p>Gracz, któremu rzuciłeś wyzwanie, ale już gra</p>
+      </div>
+    </div>
+
+    <button (click)="toggleChallengeStatusAgainstAllPlayers($event)" id="toggleChallengeStatusAgainstAllPlayersBtn" type="button" class="btn btn-primary btn-lg">Rzuć wyzwanie wszystkim graczom</button>
+  </div>
+</div>
+
+<app-chat></app-chat>

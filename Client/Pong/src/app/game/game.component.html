@@ -1,0 +1,12 @@
+<div id="container">
+        <div id="playerPoints">
+            <div *ngFor="let x of createArray(12); let i = index" [ngClass]="{'current-point': this.gameClient.myPoints == i, 'scored-point': i < this.gameClient.myPoints}" class="point-{{i}} point"></div>
+        </div>
+
+        <div id="opponentPoints">
+            <div *ngFor="let x of createArray(12); let i = index" [ngClass]="{'current-point': this.gameClient.opponentPoints == i, 'scored-point': i < this.gameClient.opponentPoints}" class="point-{{i}} point"></div>
+        </div>
+    <canvas></canvas>
+    <span id="playerNickname" class="nickname">{{client.myNickname}}</span>
+    <span id="opponentNickname" class="nickname">{{client.opponentNickname}}</span>
+</div>

@@ -1,0 +1,15 @@
+<div #chat id="chat" [scrollTop]="chat.scrollHeight">
+  <div *ngFor="let chatMessage of chatMessages" [ngClass]="{'my-message' : chatMessage.isMyMessage, 'warning-message' : chatMessage.isWarningMessage}" class="chat-message">
+    <p>
+      <span class="msg-author">{{chatMessage.authorNickname}}</span>
+      <span class="msg-date">{{chatMessage.date}}</span>
+    </p>
+    <p class="msg-content">{{chatMessage.message}}</p>
+  </div>
+
+</div>
+
+<div id="userMsg">
+  <input #messageInputRef (keydown.enter)="sendChatMessage()" maxlength="200" type="text" class="form-control" id="message" placeholder="Wprowadź swoją wiadomość tutaj...">
+  <button (click)="sendChatMessage()" type="button" class="btn btn-primary" id="sendMsgBtn">Wyślij</button>
+</div>

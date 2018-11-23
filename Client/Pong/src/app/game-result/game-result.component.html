@@ -1,0 +1,9 @@
+<div id="container">
+  <h1 *ngIf="client.didOpponentLeftTheGame || client.didIWinLastGame" id="gameResult">Wygrana!!!</h1>
+  <h1 *ngIf="!client.didOpponentLeftTheGame && !client.didIWinLastGame" id="gameResult">Przegrana!!!</h1>
+  <br>
+  <p *ngIf="!client.didOpponentLeftTheGame"><span *ngIf="client.didIWinLastGame">Wygrałeś</span> <span *ngIf="!client.didIWinLastGame">Przegrałeś</span> pojedynek z graczem <span id="playerNickname">{{client.opponentNickname}}.</span></p>
+  <p *ngIf="client.didOpponentLeftTheGame">Gracz {{client.opponentNickname}} opuścił grę.</p>
+  <br>
+  <button id="returnToGameroom" (click)="returnToGameroom()" type="button" class="btn btn-info">Powrót do pokoju graczy</button>
+</div>

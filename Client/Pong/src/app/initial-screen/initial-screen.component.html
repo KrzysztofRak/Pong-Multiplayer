@@ -1,0 +1,7 @@
+<h1>Witaj w grze Pong Multiplayer!</h1>
+<br>
+<h2>Wprowadź swoją nazwę:</h2>
+<br>
+<input #wrongNicknamePopover="ngbPopover" [(ngModel)]="myNickname" (input)="onNicknameChange()" (keydown.enter)="tryToEnterToGameroom()" ngbPopover="Wybrana nazwa jest już zajęta" triggers="manual" placement="right" type="text" maxlength="25" class="form-control form-control-lg">
+<br>
+<button (click)="tryToEnterToGameroom()" [disabled]="isBtnDisabled" type="button" class="btn btn-success btn-lg">Przejdź do pokoju gry</button>

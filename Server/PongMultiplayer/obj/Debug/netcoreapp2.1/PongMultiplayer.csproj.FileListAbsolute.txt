@@ -1,0 +1,158 @@
+C:\Users\Krzysztof\Source\Repos\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csprojAssemblyReference.cache
+C:\Users\Krzysztof\Source\Repos\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csproj.CoreCompileInputs.cache
+C:\Users\Krzysztof\Source\Repos\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorAssemblyInfo.cache
+C:\Users\Krzysztof\Source\Repos\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorAssemblyInfo.cs
+C:\Users\Krzysztof\Source\Repos\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.AssemblyInfoInputs.cache
+C:\Users\Krzysztof\Source\Repos\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.AssemblyInfo.cs
+C:\Users\Krzysztof\Source\Repos\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.deps.json
+C:\Users\Krzysztof\Source\Repos\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.runtimeconfig.json
+C:\Users\Krzysztof\Source\Repos\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.runtimeconfig.dev.json
+C:\Users\Krzysztof\Source\Repos\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.dll
+C:\Users\Krzysztof\Source\Repos\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.pdb
+C:\Users\Krzysztof\Source\Repos\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.Views.dll
+C:\Users\Krzysztof\Source\Repos\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorTargetAssemblyInfo.cache
+C:\Users\Krzysztof\Source\Repos\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.dll
+C:\Users\Krzysztof\Source\Repos\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.pdb
+C:\Users\Krzysztof\Source\Repos\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csproj.CopyComplete
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.deps.json
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.runtimeconfig.json
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.runtimeconfig.dev.json
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.dll
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.pdb
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.Views.dll
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csproj.CoreCompileInputs.cache
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorAssemblyInfo.cache
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorAssemblyInfo.cs
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.AssemblyInfoInputs.cache
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.AssemblyInfo.cs
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorTargetAssemblyInfo.cache
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.dll
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.pdb
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csproj.CopyComplete
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.TagHelpers.input.cache
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.TagHelpers.output.cache
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorCoreGenerate.cache
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorTargetAssemblyInfo.cs
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.Views.pdb
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.Views.pdb
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.deps.json
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.runtimeconfig.json
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.runtimeconfig.dev.json
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.dll
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.pdb
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.Views.dll
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.Views.pdb
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csprojAssemblyReference.cache
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csproj.CoreCompileInputs.cache
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorAssemblyInfo.cache
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorAssemblyInfo.cs
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.AssemblyInfoInputs.cache
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.AssemblyInfo.cs
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.TagHelpers.input.cache
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.TagHelpers.output.cache
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorCoreGenerate.cache
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorTargetAssemblyInfo.cache
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorTargetAssemblyInfo.cs
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.Views.pdb
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.dll
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.pdb
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csproj.CopyComplete
+C:\Users\Krzysztof\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\rakk1\Desktop\Pong\PongMultiplayer\PongMultiplayer\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+V:\Pong - Copy\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.deps.json
+V:\Pong - Copy\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.runtimeconfig.json
+V:\Pong - Copy\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.runtimeconfig.dev.json
+V:\Pong - Copy\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.dll
+V:\Pong - Copy\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.pdb
+V:\Pong - Copy\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.Views.dll
+V:\Pong - Copy\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.Views.pdb
+V:\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csproj.CoreCompileInputs.cache
+V:\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorAssemblyInfo.cache
+V:\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorAssemblyInfo.cs
+V:\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+V:\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.AssemblyInfoInputs.cache
+V:\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.AssemblyInfo.cs
+V:\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.TagHelpers.input.cache
+V:\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.TagHelpers.output.cache
+V:\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorCoreGenerate.cache
+V:\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+V:\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorTargetAssemblyInfo.cache
+V:\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorTargetAssemblyInfo.cs
+V:\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.Views.pdb
+V:\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.dll
+V:\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.pdb
+V:\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csproj.CopyComplete
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.deps.json
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.runtimeconfig.json
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.runtimeconfig.dev.json
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.dll
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.pdb
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.Views.dll
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.Views.pdb
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csproj.CoreCompileInputs.cache
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorAssemblyInfo.cache
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorAssemblyInfo.cs
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.AssemblyInfoInputs.cache
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.AssemblyInfo.cs
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.TagHelpers.input.cache
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.TagHelpers.output.cache
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorCoreGenerate.cache
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorTargetAssemblyInfo.cache
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorTargetAssemblyInfo.cs
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.Views.pdb
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.dll
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.pdb
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csproj.CopyComplete
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.deps.json
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.runtimeconfig.json
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.runtimeconfig.dev.json
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.dll
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.pdb
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.Views.dll
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.Views.pdb
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csprojAssemblyReference.cache
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csproj.CoreCompileInputs.cache
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorAssemblyInfo.cache
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorAssemblyInfo.cs
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.AssemblyInfoInputs.cache
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.AssemblyInfo.cs
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.TagHelpers.input.cache
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.TagHelpers.output.cache
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorCoreGenerate.cache
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorTargetAssemblyInfo.cache
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorTargetAssemblyInfo.cs
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.Views.pdb
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.dll
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.pdb
+C:\Users\Krzysztof\Desktop\Pong - Copy\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csproj.CopyComplete
+C:\Users\rakk1\Desktop\Pong\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csprojAssemblyReference.cache
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.deps.json
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.runtimeconfig.json
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.runtimeconfig.dev.json
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.dll
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.pdb
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.Views.dll
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\bin\Debug\netcoreapp2.1\PongMultiplayer.Views.pdb
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csproj.CoreCompileInputs.cache
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorAssemblyInfo.cache
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorAssemblyInfo.cs
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.AssemblyInfoInputs.cache
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.AssemblyInfo.cs
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.TagHelpers.input.cache
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.TagHelpers.output.cache
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorCoreGenerate.cache
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorTargetAssemblyInfo.cache
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.RazorTargetAssemblyInfo.cs
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.Views.pdb
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.dll
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.pdb
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csproj.CopyComplete
+C:\Users\rakk1\Desktop\Pong Multiplayer\Server\PongMultiplayer\obj\Debug\netcoreapp2.1\PongMultiplayer.csprojAssemblyReference.cache

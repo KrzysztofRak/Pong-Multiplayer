@@ -1,0 +1,57 @@
+@chatWidth: 1000px;
+
+#chat {
+    height: 180px;
+    width: @chatWidth;
+    border-radius: 4px;
+    background-color: white;
+    overflow-y: scroll;
+
+    .chat-message {
+        border-bottom: solid gray 1px;
+
+        p {
+            margin: 0;
+            padding: 0;
+        }
+        .msg-author {
+            margin-left: 10px;
+            font-weight: 900;
+            margin-right: 10px;
+        }
+
+        .msg-date {
+            float: right;
+            margin-right: 10px;
+            font-style: italic;
+            font-size: 14px;
+            color: gray;
+        }
+
+        .msg-content {
+            padding: 0 15px;
+            margin-bottom: 5px;
+            word-wrap: break-word;
+        }
+    }
+
+    .my-message {
+        background-color:  rgb(255, 230, 166);
+    }
+
+    .warning-message {
+      background-color:  rgb(255, 166, 166);
+  }
+}
+
+#userMsg {
+   display: flex;
+   width: @chatWidth;
+   margin-top: 10px;
+
+   #sendMsgBtn {
+       margin-left: 10px;
+       width: 150px;
+   }
+}
+
