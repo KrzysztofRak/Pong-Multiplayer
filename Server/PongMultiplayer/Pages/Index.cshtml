@@ -1,5 +1,6 @@
 ﻿@page
 @using PongMultiplayer.Pages;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 @model IndexModel
 @{
 }
@@ -12,12 +13,12 @@
     <base href="/">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
-    <link rel="stylesheet" href="styles.4bb997251c258c4a04bf.css">
+    <link rel="stylesheet" asp-href-include="styles.*.css">
 </head>
 <body class="noselect">
     <app-root></app-root>
-    <script type="text/javascript" src="runtime.ec2944dd8b20ec099bf3.js"></script>
-    <script type="text/javascript" src="polyfills.c6871e56cb80756a5498.js"></script>
-    <script type="text/javascript" src="main.fe1e785af90c02619f7c.js"></script>
+    <script type="text/javascript" asp-src-include="runtime.*.js"></script>
+    <script type="text/javascript" asp-src-include="polyfills.*.js"></script>
+    <script type="text/javascript" asp-src-include="main.*.js"></script>
 </body>
 </html>
