@@ -289,9 +289,6 @@ Apache-2.0
  
 
 
-@angular/compiler
-MIT
-
 @angular/core
 MIT
 

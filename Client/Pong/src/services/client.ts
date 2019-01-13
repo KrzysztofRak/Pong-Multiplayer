@@ -8,7 +8,7 @@ import { Router } from "@angular/router";
 export class Client
 {
     //private serverAddress: string = "https://localhost:44382/";
-    private serverAddress: string = "https://pongmultiplayer.azurewebsites.net/";
+    private serverAddress: string = "/";
     private hubConnection: HubConnection;
 
     public isConnected: boolean = false;
